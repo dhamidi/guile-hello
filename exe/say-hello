@@ -1,0 +1,3 @@
+#!/bin/bash
+
+guile -c '(use-modules (hello hello))(say-hello)'
